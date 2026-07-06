@@ -8,6 +8,9 @@ win/dist/
 win/tou_*.txt
 linux/build/
 linux/dist/
+linux/*.sh
+linux/*.spec
+linux/*.desktop
 route_cache.json
 playback.db
 vault.enc
