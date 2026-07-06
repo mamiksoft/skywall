@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Skywall
+Comment=Skywall - Aircraft tracking radar
+Exec=@TARGET@/Skywall
+Terminal=true
+Categories=Utility;Network;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
